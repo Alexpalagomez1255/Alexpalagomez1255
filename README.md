@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">Soy Alejandro Palacios Gomez FullStack Developer, incursioné en el mundo de la programación desde el 2022 y estoy aprendiendo todos los días cosas nuevas</div>  
+### <div align="center">Soy Alejandro Palacios Gomez FullStack Developer</div>  
+<div align="center">   incursioné en el mundo de la programación desde el 2022 y estoy aprendiendo todos los días cosas nuevas</div>  
   
 
 - 🔭Trabajé en un proyecto grupal de adopción de mascotas [Github Huellitas de amor](https://github.com/Alexpalagomez1255/PF-Huellitas-de-amor.git)  
