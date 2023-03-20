@@ -14,10 +14,7 @@
   
 
 - Ahora para agregar una nueva Tech Skill estoy estudiando Java!!🤓  
-  
-
-- Tienes un Proyecto en mente? conmigo lo puedes hacer, tenlo por seguro!!!😎, puedes agendar una reunion conmigo en Calendly o contactáme por email 
-  
+    
 
 - Me encanta la Música, de hecho estoy en una agrupación coral  
   
