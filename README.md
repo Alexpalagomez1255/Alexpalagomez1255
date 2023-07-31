@@ -13,7 +13,7 @@
 - 🌱Actualmente estoy estudiando Ingeniería de sistemas en la Unad - Colombia  
   
 
-- Ahora para agregar una nueva Tech Skill estoy estudiando Java!!🤓  
+- Ahora para agregar una nueva Tech Skill estoy estudiando next.js!!🤓  
     
 
 - Me encanta la Música, de hecho estoy en una agrupación coral  
