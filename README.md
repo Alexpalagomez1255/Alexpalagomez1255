@@ -1,111 +1,135 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Soy Alejandro Palacios Gomez FullStack Developer</div>  
-<div align="center">   incursioné en el mundo de la programación desde el 2022 y estoy aprendiendo todos los días cosas nuevas</div>  
-  
-
-- 🔭Trabajé en un proyecto grupal de adopción de mascotas [Github Huellitas de amor](https://github.com/Alexpalagomez1255/PF-Huellitas-de-amor.git)  
-  
-
-- 🌱Actualmente estoy estudiando Ingeniería de sistemas en la Unad - Colombia  
-  
-
-- Ahora para agregar una nueva Tech Skill estoy estudiando next.js!!🤓  
-    
-
-- Me encanta la Música, de hecho estoy en una agrupación coral  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="width: 100%" />
 </div>
 
-</td><td valign="top" width="33%">
+# 👋 Hi, I'm Alejandro Palacios Gómez
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
- 
-  <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DataBase  
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Alexpalagomez1255" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alejandro-palacios-gomez-6a1292172" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexpalagomez1255&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+### 💻 Fullstack Web Developer | TypeScript | React | Next.js | Node | PostgreSQL
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Alexpalagomez1255&&style=flat-square" align="center" />
-</div>  
-  
+📍 Colombia 🇨🇴 | 🌐 Open to Remote Roles | 🧠 Lifelong Learner | 💬 English C1  
+</div>
 
-<br/>  
+---
 
-<div align="center"></div>
-<br />
+## 🚀 About Me
+
+I'm a **Fullstack Developer** with strong experience in modern web technologies.  
+💼 Over the last 2 years, I’ve worked on scalable applications using **React, Next.js, Node.js, PostgreSQL, Prisma**, and **AWS**.  
+🧩 I enjoy building clean, modular, and testable code — and I have a passion for crafting excellent developer and user experiences.  
+🤝 Collaborative by nature, I’ve worked in Agile teams, participated in **code reviews**
+
+---
+
+## 🧰 Tech Stack
+
+### 🖥️ Frontend
+
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
+</div>
+
+### 🔧 Backend
+
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
+  <img src="https://nestjs.com/img/logo-small.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="50" />
+</div>
+
+### 🗄️ Databases & DevOps
+
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="50" />
+</div>
+
+### 🧪 Testing
+
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="50" />
+  <img src="https://testing-library.com/img/octopus-64x64.png" height="50" title="React Testing Library" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" title="Playwright" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🔸 Masmuch – Fullstack Developer
+
+📅 Aug 2023 – Present
+
+- Built and maintained modern web applications with React and Next.js
+- Improved UI/UX on key features of a sweepstakes platform
+- Integrated REST APIs, optimized database performance with PostgreSQL
+- Deployed features using AWS services (S3, EC2), Redis, and Terraform
+- Contributed to Agile sprints, peer reviews, and mentoring sessions
+
+### 🔹 Freelance Projects – Fullstack Developer
+
+📅 Jan 2022 – Jul 2023
+
+- Delivered web solutions for clients using Next.js, Node.js, and PostgreSQL
+- Built reusable UI libraries with **Storybook** and **Ant Design**
+- Developed RESTful APIs and connected cloud-based database systems
+- Participated in pair programming and client-facing meetings
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced CI/CD workflows
+- Clean architecture for fullstack apps
+- Performance tuning for Next.js 13 with server-side components
+
+---
+
+## 🧩 Featured Project
+
+🐾 [Huellitas de Amor](https://github.com/Alexpalagomez1255/PF-Huellitas-de-amor) – A fullstack pet adoption platform built collaboratively using React.js, Node.js and PostgreSQL.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/Alexpalagomez1255"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alejandro-palacios-gomez-6a1292172"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alexpalagomez1255&show_icons=true&count_private=true&hide_border=true&theme=github_dark" height="180" />
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpalagomez1255&layout=compact&hide_border=true&theme=github_dark" height="180" />
+
+</div>
+
+<!-- Racha de contribuciones -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Alexpalagomez1255&theme=github-dark&hide_border=true" />
+</div>
+
+
+
+  <img src="https://komarev.com/ghpvc/?username=Alexpalagomez1255&&style=flat-square" />
+</div>
