@@ -83,9 +83,8 @@ I'm a **Fullstack Developer** with strong experience in modern web technologies.
 📅 Jan 2022 – Jul 2023
 
 - Delivered web solutions for clients using Next.js, Node.js, and PostgreSQL
-- Built reusable UI libraries with **Storybook** and **Ant Design**
 - Developed RESTful APIs and connected cloud-based database systems
-- Participated in pair programming and client-facing meetings
+- Participated in pair programming
 
 ---
 
